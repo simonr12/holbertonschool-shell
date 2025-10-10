@@ -1,0 +1,1 @@
+0-current_working_directory contain a script who print the current working directory
