@@ -3,3 +3,4 @@
 2-bring_me_home contain a script who change directory to user's home directory
 3-listfiles contain a script who display the directory content in a detailled list
 4-listmorefiles contain a script who display the directory content in a detailled list, include hidden files
+5-listfilesdigitonly contain a script who display the directory content in a detailled list, include hidden files, with uid/gid
