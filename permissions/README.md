@@ -1,0 +1,1 @@
+0-iam_betty execute a script who change the current user to user "betty"
