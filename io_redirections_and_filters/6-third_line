@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==3' filename
+head -n 3 iacta
