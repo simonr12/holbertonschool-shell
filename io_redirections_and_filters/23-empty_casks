@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type df -size 0 | ls -1
+find . -empty | rev | cut -d/ -f1 | rev
